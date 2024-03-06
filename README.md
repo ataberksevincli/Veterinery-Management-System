@@ -9,52 +9,35 @@ To briefly talk about the project, it is a system where you can register the cus
 ### (I am using POSTMAN for this project.)
 
 ### Animal Save
-![Screenshot 2024-03-06 at 22.40.16 (3).png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.40.16%20%283%29.png)
-
+![Screenshot 2024-03-06 at 23.17.24.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.17.24.png)
 ### Get Animals by Animal Name
-![Screenshot 2024-03-06 at 22.42.35 (3).png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.42.35%20%283%29.png)
-
+![Screenshot 2024-03-06 at 23.18.08.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.18.08.png)
 ### Get Animals by Customer Id
-![Screenshot 2024-03-06 at 22.44.25 (3).png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.44.25%20%283%29.png)
-
+![Screenshot 2024-03-06 at 22.46.20.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2022.46.20.png)
 ### Get Animals by Customer Name
-![Screenshot 2024-03-06 at 22.47.00.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.47.00.png)
-
+![Screenshot 2024-03-06 at 22.47.00.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2022.47.00.png)
 ### Appointment Save
-![Screenshot 2024-03-06 at 22.47.59.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.47.59.png)
-
+![Screenshot 2024-03-06 at 23.18.39.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.18.39.png)
 ### Get Appointments by AnimalID and Date
-![Screenshot 2024-03-06 at 22.47.32.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.47.32.png)
-
+![Screenshot 2024-03-06 at 23.19.20.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.19.20.png)
 ### Get Appointments by DoctorID and Date
-![Screenshot 2024-03-06 at 22.47.48.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.47.48.png)
-
+![Screenshot 2024-03-06 at 23.19.49.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.19.49.png)
 ### AvailableDate Save
-![Screenshot 2024-03-06 at 22.49.49.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.49.49.png)
-
+![Screenshot 2024-03-06 at 23.20.16.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.20.16.png)
 ### Customer Save
-![Screenshot 2024-03-06 at 22.50.29.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.50.29.png)
-
+![Screenshot 2024-03-06 at 23.20.42.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.20.42.png)
 ### Doctor Save
-![Screenshot 2024-03-06 at 22.50.52.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.50.52.png)
-
+![Screenshot 2024-03-06 at 23.21.04.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.21.04.png)
 ### Vaccine Save
-![Screenshot 2024-03-06 at 22.51.39.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.51.39.png)
-
+![Screenshot 2024-03-06 at 23.21.40.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.21.40.png)
 ### If the vaccine with the same name and code is tried to be administered between the same dates, it will throw an exception.
-![Screenshot 2024-03-06 at 22.52.36.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.52.36.png)
-
+![Screenshot 2024-03-06 at 23.22.19.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.22.19.png)
 ### Get Vaccines by ID
-![Screenshot 2024-03-06 at 22.54.40.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.54.40.png)
-![Screenshot 2024-03-06 at 22.54.51.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.54.51.png)
-
+![Screenshot 2024-03-06 at 23.22.54.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.22.54.png)
 ### FULL VIEW POSTMAN
-![Screenshot 2024-03-06 at 22.55.47.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.55.47.png)
-
-
+![Screenshot 2024-03-06 at 23.23.28.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.23.28.png)
 ### PROJECT DEPENDENCIES
-![Screenshot 2024-03-06 at 22.57.20.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%2022.57.20.png)
-
+![Screenshot 2024-03-06 at 23.24.23.png](src%2Fimg%2FScreenshot%202024-03-06%20at%2023.24.23.png)
 ### For more information, you can contact me at ataberksevincli.patika@hotmail.com
 
 ### Thank you for your interest in the project!
